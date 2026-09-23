@@ -1,0 +1,12 @@
+{
+  "name": "mbele-ecd-english-creche",
+  "private": true,
+  "description": "Website for Mbele ECD English Creche in Tokoza.",
+  "scripts": {
+    "build": "tsc",
+    "photos": "python scripts/enhance_photos.py"
+  },
+  "devDependencies": {
+    "typescript": "^5.9.2"
+  }
+}
